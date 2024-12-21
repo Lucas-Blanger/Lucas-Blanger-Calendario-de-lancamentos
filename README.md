@@ -1,16 +1,29 @@
-# foguetes_info
+# Foguetes-INFO 🚀
 
-A new Flutter project.
+**Foguetes-INFO** é um aplicativo desenvolvido em Flutter que funciona como um portal interativo de informações sobre foguetes. Ele oferece funcionalidades relacionadas a lançamentos espaciais, exploração, e até uma loja temática.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Funcionalidades Principais
 
-A few resources to get you started if this is your first Flutter project:
+- **Exploração Espacial**: Saiba mais sobre missões e descobertas espaciais.
+- **Lojinha**: Acesse uma loja com itens relacionados ao universo espacial.
+- **Informações sobre lançamentos**: Confira detalhes e atualizações de lançamentos espaciais.
+- **Cadastrar lançamento**: Registre um novo lançamento espacial para análise.
+- **Ver lançamentos em análises**: Visualize detalhes dos lançamentos que estão sendo analisados.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂 Estrutura do Projeto
+
+  - main.dart: Arquivo principal que inicia o aplicativo.
+  - inscricao.dart: Página para cadastrar lançamentos.
+  - mostrafoguete.dart: Página para visualização de foguetes em análise.
+  - verificacao.dart: Página para validação de dados.
+  - loja.dart: Página da loja temática.
+  - info.dart: Página com informações sobre lançamentos.
+  - exploracao.dart: Página de exploração espacial.
+
+📄 Licença
+
+Este projeto está licenciado sob a MIT License.
